@@ -4,7 +4,7 @@
 
 **Free · Unlimited · Your Hardware**
 
-→ **[Try it live](https://srackalica.github.io/GorstaksAI/)**
+→ **[Try it live](https://tandrlemandrle.github.io/GorstaksAI/)**
 
 A ChatGPT-like web interface where **all inference runs in the user's browser via WebGPU**. No cloud GPUs, no API keys, no limits, no installs.
 
